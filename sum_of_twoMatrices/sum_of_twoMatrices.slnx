@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="sum_of_twoMatrices/sum_of_twoMatrices.vcxproj" />
+</Solution>

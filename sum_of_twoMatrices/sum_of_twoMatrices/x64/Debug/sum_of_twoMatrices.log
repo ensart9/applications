@@ -1,0 +1,3 @@
+﻿  sum_of_twoMatrices.cpp
+C:\Users\ensar\Desktop\sum_of_twoMatrices\sum_of_twoMatrices\sum_of_twoMatrices.cpp(21,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ensar\Desktop\sum_of_twoMatrices\sum_of_twoMatrices\sum_of_twoMatrices.cpp(51,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
